@@ -1,0 +1,11 @@
+{
+  "code": "SAVE10",
+  "discountType": "percentage",
+  "discountValue": 10,
+  "minOrderAmount": 500,
+  "maxDiscountAmount": 100,
+  "expiryDate": "2025-12-31T23:59:59.000Z",
+  "usageLimit": 100,
+  "isActive": true,
+  "isNewUserOnly": false
+}
