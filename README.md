@@ -1,4 +1,4 @@
-# BazzarNet Frontend
+# BazzarNet-Client
 
 Live App: https://bazzarnet-ecom.vercel.app/
 
