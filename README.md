@@ -140,14 +140,7 @@ Make sure your backend is running and accessible.
 
 ---
 
-## Status
-
-Frontend is fully functional and deployed.
-Actively improving performance, UI polish, and feature expansion.
-
----
-
 ## Author
 
-Diwakar Kumar
-fullstack developer
+###Diwakar Kumar
+###fullstack developer
