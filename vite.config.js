@@ -5,12 +5,18 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 
-  
-  base: "/bazzarnet.ecom/",
+  // IMPORTANT: required for Vercel deployment
+  base: "/",
 
   server: {
     host: '0.0.0.0',
     port: 5173,
+  },
+
+  // Optional but recommended for better builds
+  build: {
+    outDir: "dist",
+    sourcemap: false,
   },
 
   test: {
