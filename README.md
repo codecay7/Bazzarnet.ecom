@@ -130,17 +130,5 @@ Make sure your backend is running and accessible.
 
 ---
 
-## Development Notes
 
-* Use **Tailwind only** for styling
-* Keep components small & reusable
-* Prefer hooks for logic reuse
-* Avoid unnecessary libraries
-* Maintain clean folder structure
 
----
-
-## Author
-
-###Diwakar Kumar
-###fullstack developer
